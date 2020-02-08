@@ -38,7 +38,7 @@ class BookingsPage extends Component {
 
     const token = this.context.token;
 
-    fetch("http://dkim0401.mooo.com:4588/graphql", {
+    fetch("https://event-graphql-mongoose.herokuapp.com/", {
       method: "POST",
       body: JSON.stringify(requestBody),
       headers: {
@@ -81,7 +81,7 @@ class BookingsPage extends Component {
 
       const token = this.context.token;
 
-      fetch("http://dkim0401.mooo.com:4588/graphql", {
+      fetch("https://event-graphql-mongoose.herokuapp.com/", {
         method: "POST",
         body: JSON.stringify(requestBody),
         headers: {
