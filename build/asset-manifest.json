@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.321cfa73.chunk.css",
-    "main.js": "/static/js/main.dd5aad0a.chunk.js",
-    "main.js.map": "/static/js/main.dd5aad0a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1c2d59f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1c2d59f4.js.map",
-    "static/js/2.d4b7f51e.chunk.js": "/static/js/2.d4b7f51e.chunk.js",
-    "static/js/2.d4b7f51e.chunk.js.map": "/static/js/2.d4b7f51e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.470b260b32f425667695cf3e0005c212.js": "/precache-manifest.470b260b32f425667695cf3e0005c212.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.321cfa73.chunk.css.map": "/static/css/main.321cfa73.chunk.css.map",
-    "static/js/2.d4b7f51e.chunk.js.LICENSE": "/static/js/2.d4b7f51e.chunk.js.LICENSE"
+    "main.css": "/Event-React-graphql-client/static/css/main.321cfa73.chunk.css",
+    "main.js": "/Event-React-graphql-client/static/js/main.dd5aad0a.chunk.js",
+    "main.js.map": "/Event-React-graphql-client/static/js/main.dd5aad0a.chunk.js.map",
+    "runtime-main.js": "/Event-React-graphql-client/static/js/runtime-main.3d8a33e0.js",
+    "runtime-main.js.map": "/Event-React-graphql-client/static/js/runtime-main.3d8a33e0.js.map",
+    "static/js/2.19d6bb3d.chunk.js": "/Event-React-graphql-client/static/js/2.19d6bb3d.chunk.js",
+    "static/js/2.19d6bb3d.chunk.js.map": "/Event-React-graphql-client/static/js/2.19d6bb3d.chunk.js.map",
+    "index.html": "/Event-React-graphql-client/index.html",
+    "precache-manifest.c2837be1edd9ee655816be446c37e653.js": "/Event-React-graphql-client/precache-manifest.c2837be1edd9ee655816be446c37e653.js",
+    "service-worker.js": "/Event-React-graphql-client/service-worker.js",
+    "static/css/main.321cfa73.chunk.css.map": "/Event-React-graphql-client/static/css/main.321cfa73.chunk.css.map",
+    "static/js/2.19d6bb3d.chunk.js.LICENSE": "/Event-React-graphql-client/static/js/2.19d6bb3d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c2d59f4.js",
-    "static/js/2.d4b7f51e.chunk.js",
+    "static/js/runtime-main.3d8a33e0.js",
+    "static/js/2.19d6bb3d.chunk.js",
     "static/css/main.321cfa73.chunk.css",
     "static/js/main.dd5aad0a.chunk.js"
   ]
